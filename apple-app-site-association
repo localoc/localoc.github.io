@@ -2,8 +2,8 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "QF7DU38WYZ.com.app.localoc.apple",
-            "paths": [ "*", "/" ]
+            "appID": "J2P8WQXAA9.com.app.localoc.apple",
+            "paths": ["*", "/"]
             }]
     }
 }

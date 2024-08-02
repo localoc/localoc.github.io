@@ -5,10 +5,6 @@
             {
                 "appID": "QF7DU38WYZ.com.locaLoc.app.apple",
                 "paths": [
-                    "/t/*",
-                    "/w/*",
-                    "/p/*",
-                    "/download/*",
                     "*"
                 ]
             }
